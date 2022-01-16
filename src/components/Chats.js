@@ -66,7 +66,7 @@ const Chats = () => {
         <div className="chats-page">
             <div className="nav-bar">
                 <div className="logo-tab">
-                    Chat Now
+                    Unichat
                 </div>
                 <div
                     onClick={handleLogout}
